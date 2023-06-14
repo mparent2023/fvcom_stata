@@ -2,4 +2,4 @@
 learning to connect stata to github
 using https://medium.com/the-stata-guide/stata-and-github-integration-8c87ddf9784a
 
-adding text to practice commit & push
+adding text to practice commit & push# github-tutorial 
